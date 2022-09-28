@@ -1,0 +1,11 @@
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDfacturas-main\bin\Debug\CRUDfacturacion.exe.config
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDfacturas-main\bin\Debug\CRUDfacturacion.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDfacturas-main\bin\Debug\CRUDfacturacion.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDfacturas-main\obj\Debug\CRUDfacturacion.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDfacturas-main\obj\Debug\CRUDfacturacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDfacturas-main\obj\Debug\CRUDfacturacion.Properties.Resources.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDfacturas-main\obj\Debug\CRUDfacturacion.csproj.GenerateResource.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDfacturas-main\obj\Debug\CRUDfacturacion.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDfacturas-main\obj\Debug\CRUDfacturacion.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDfacturas-main\obj\Debug\CRUDfacturacion.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDfacturas-main\obj\Debug\CRUDfacturacion.FrmAlta.resources
